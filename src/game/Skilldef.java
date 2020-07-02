@@ -1,8 +1,7 @@
 package game;
 
 public class Skilldef {
-	public static int ATTACK = 10001;
-	public static int POWER_ATTACK = 10002;
-	public static int THROWING = 10003;
-
+	public static final int ATTACK = 10001;
+	public static final int POWER_ATTACK = 10002;
+	public static final int THROWING = 10003;
 }
